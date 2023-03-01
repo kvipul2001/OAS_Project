@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245961260425",
+    "project_id": "oas-d11",
+    "storage_bucket": "oas-d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245961260425:android:35dc1071b8d4783af87558",
+        "android_client_info": {
+          "package_name": "com.au.oas_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245961260425-4mk5s8latb19nght6303gg3rm5bus35o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.au.oas_project",
+            "certificate_hash": "72da85653bc74465648d0f3e8df5077f9608de0c"
+          }
+        },
+        {
+          "client_id": "245961260425-1bo240d0n6ceflf5j5qfak00tdtvf2vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDswGmg7SztGLkDvAxW01b7pjA52QNqI_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245961260425-1bo240d0n6ceflf5j5qfak00tdtvf2vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
